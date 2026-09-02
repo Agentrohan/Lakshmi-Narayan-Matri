@@ -1,0 +1,64 @@
+{
+  "pages/home/hero-couple": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-hero-couple-258e5846.jpg",
+    "searchQuery": "Indian couple traditional wedding attire elegant portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2223832983",
+      "https://img1.wsimg.com/isteam/getty/2235566511",
+      "https://img1.wsimg.com/isteam/getty/1175680470",
+      "https://img1.wsimg.com/isteam/getty/2222322192",
+      "https://img1.wsimg.com/isteam/getty/2167701673"
+    ],
+    "userModified": true,
+    "createdAt": "2026-04-21T07:53:47.291Z",
+    "lastUpdated": "2026-04-21T09:17:14.105Z",
+    "alternativeGettyIds": [
+      "2223832983",
+      "2235566511",
+      "1175680470",
+      "2222322192",
+      "2167701673"
+    ],
+    "requestedSize": {
+      "width": 1400,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "two",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-hero-couple-258e5846.jpg": "b4f16mem7u_1776763034097_file_9divj7lJRs.jpg"
+    }
+  },
+  "pages/home/floral-decoration": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2242477619",
+    "searchQuery": "Indian marigold flower garland decoration traditional wedding",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2211508676",
+      "https://img1.wsimg.com/isteam/getty/1431074174",
+      "https://img1.wsimg.com/isteam/getty/994315912"
+    ],
+    "userModified": false,
+    "createdAt": "2026-04-21T07:53:49.017Z",
+    "lastUpdated": "2026-04-21T07:53:49.017Z",
+    "gettyId": "2242477619",
+    "alternativeGettyIds": [
+      "2211508676",
+      "1431074174",
+      "994315912"
+    ],
+    "requestedSize": {
+      "width": 1400,
+      "height": 300,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,vivid",
+    "graphicalStyles": "photography",
+    "numberOfPeople": "none"
+  }
+}

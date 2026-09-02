@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#2D1B69"/>
+  <!-- Subtle radial glow -->
+  <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#1E3A8A" stop-opacity="0.6"/>
+    <stop offset="100%" stop-color="#2D1B69" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <!-- Gold border frame -->
+  <rect x="24" y="24" width="1152" height="582" rx="12" fill="none" stroke="#C9A84C" stroke-width="2" opacity="0.6"/>
+  <rect x="36" y="36" width="1128" height="558" rx="8" fill="none" stroke="#C9A84C" stroke-width="0.5" opacity="0.3"/>
+  <!-- Decorative corner flowers (top-left) -->
+  <g opacity="0.25">
+    <path d="M36 594 Q80 520 140 460" stroke="#C9A84C" stroke-width="2" fill="none"/>
+    <circle cx="140" cy="460" r="12" fill="#C9A84C"/>
+    <circle cx="100" cy="510" r="9" fill="#C9A84C"/>
+    <circle cx="68" cy="555" r="7" fill="#C9A84C"/>
+  </g>
+  <!-- Decorative corner flowers (top-right) -->
+  <g opacity="0.25">
+    <path d="M1164 594 Q1120 520 1060 460" stroke="#C9A84C" stroke-width="2" fill="none"/>
+    <circle cx="1060" cy="460" r="12" fill="#C9A84C"/>
+    <circle cx="1100" cy="510" r="9" fill="#C9A84C"/>
+    <circle cx="1132" cy="555" r="7" fill="#C9A84C"/>
+  </g>
+  <!-- Top Marathi label -->
+  <text x="600" y="130" font-family="serif" font-size="28" fill="#C9A84C" text-anchor="middle" opacity="0.9">लक्ष्मी नारायण वधू वर सूचक</text>
+  <!-- Gold divider line -->
+  <line x1="300" y1="155" x2="900" y2="155" stroke="#C9A84C" stroke-width="1" opacity="0.5"/>
+  <!-- Main title -->
+  <text x="600" y="260" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Lakshmi Narayan</text>
+  <text x="600" y="340" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="#C9A84C" text-anchor="middle">Matrimony</text>
+  <!-- Tagline -->
+  <text x="600" y="410" font-family="Arial, sans-serif" font-size="26" fill="#FFFFFF" text-anchor="middle" opacity="0.8">Trusted Traditional Marathi Matchmaking</text>
+  <!-- Gold divider line -->
+  <line x1="300" y1="440" x2="900" y2="440" stroke="#C9A84C" stroke-width="1" opacity="0.5"/>
+  <!-- USPs row -->
+  <text x="240" y="490" font-family="Arial, sans-serif" font-size="18" fill="#C9A84C" text-anchor="middle">🔒 100% Private</text>
+  <text x="600" y="490" font-family="Arial, sans-serif" font-size="18" fill="#C9A84C" text-anchor="middle">🌸 Hand-picked Matches</text>
+  <text x="960" y="490" font-family="Arial, sans-serif" font-size="18" fill="#C9A84C" text-anchor="middle">📱 WhatsApp Delivery</text>
+  <!-- Website URL -->
+  <text x="600" y="560" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF" text-anchor="middle" opacity="0.6">lakshminarayanmatrimony.in</text>
+</svg>
